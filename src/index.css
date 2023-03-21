@@ -1,0 +1,18 @@
+body{
+  font-family: 'Rubik', sans-serif;
+}
+
+/* :root{
+  --search_input_color:#febd69;
+  --dark_header_color:#131921;
+  --top_border_color:#3b4149:
+  --botton_header_color:#232f3e;
+} */
+a{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0;
+}
